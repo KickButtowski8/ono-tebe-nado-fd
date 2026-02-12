@@ -125,11 +125,7 @@ a {
   margin-bottom: 1px;
 }
 
-.address__text {
-  display: flex;
-  flex-direction: column;
-  margin-left: 1px;
-}
+
 /* header */
 
 /* address */
@@ -150,6 +146,9 @@ a {
 }
 
 .address__text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1px;
   word-wrap: break-word;
 }
 /* address */
